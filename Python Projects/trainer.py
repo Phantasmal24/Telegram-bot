@@ -14,7 +14,26 @@ BOT_USERNAME = '@Phant_asmal_bot'
 QA_PAIRS = {
     "what is your purpose": "My purpose is to assist user with thier queries.",
     "who created you": "I was created by Aditya using Python and Telethon.",
-    "what is the capital of India": "The capital of India is New Delhi."
+    "what is the capital of India": "The capital of India is New Delhi.",
+    "what is your name": "You can call me Phantasmal.",
+    "are you a robot": "Yes, I am a bot running on Python code on a server somewhere.",
+    "where do you live": "I live in the cloud, which is just someone else's computer.",
+    "what is the capital of Japan": "The capital of Japan is Tokyo.",
+    "how many planets are in the solar system": "There are 8 planets in the solar system.",
+    "what is the largest planet in the solar system": "Jupiter is the largest planet in the solar system.",
+    "what is the smallest planet in the solar system": "Mercury is the smallest planet in the solar system.",
+    "what is the largest country in the world": "Russia is the largest country in the world.",
+    "what is the smallest country in the world": "Vatican City is the smallest country in the world.",
+    "what is h20": "H20 is the chemical formula for water.",
+    "who wrote romeo and juliet": "The famous play Romeo and Juliet was written by William Shakespeare.",
+    "what is the fastest land animal": "The fastest land animal is the Cheetah.",
+    "what is your favorite movie": "As a bot, I'm a big fan of 'The Matrix'.",
+    "do you like music": "I enjoy the sound of a perfectly written piece of music.",
+    "what is your favorite food": "I run of electricity, so you can say that's my favorite food haha.",
+    "tell me a joke": "Why don't scientists trust atoms? Because they make up everything!",
+    "what has an eye but cannot see": "A needle",
+    "what has to be broken before you can use it": "An egg",
+    "what has many keys but cannot open a lock": "A piano"
 }
 
 # --- Main Training logic ---
